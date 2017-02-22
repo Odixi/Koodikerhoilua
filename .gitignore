@@ -1,2 +1,4 @@
 #Node dependencies that are installed automatically with npm install
 /node_modules
+
+/ohje.txt
